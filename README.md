@@ -10,19 +10,23 @@
 
 
 
-[2. Itálicos, Negritos e Negritos Itálicos]
+[2. Itálicos, Negritos e Negritos Itálicos](#italico-negrito)
 
 
 
-[3. Parágrafos com destaque]
+[3. Parágrafos com destaque](#paragrafo-destaque)
 
 
 
-[4. Criação de hyperlinks]
+[4. Criação de hyperlinks](#criacao-hiperlink)
 
 
 
-[5. Criando snippets de código]
+[5. Criando snippets de código](#criacao-snippets-codigo)
+
+
+
+[6. Listas não ordenadas](#listas-nAo-ordenadas)
 
 
 
@@ -171,3 +175,13 @@ Para criar snippets de código (partes de código) basta utilizar o símbolo de 
 }
 
 ```
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
+
+
+[Voltar ao índice](#índice)
